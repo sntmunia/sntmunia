@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Syeda. I am certified Data analytics interested in Data Science. 
 <!--
 **sntmunia/sntmunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
