@@ -9,13 +9,6 @@ Predictive analytics – Leveraging AI/ML for forecasting and optimization
 
 Business strategy – Aligning data-driven insights with organizational goals
 
-🌍 Open to collaborations on:
-
-Data analytics & visualization projects
-
-AI-driven forecasting solutions
-
-Business intelligence & automation initiatives
 
 🔗 Connect with me:
 
@@ -24,4 +17,5 @@ Business intelligence & automation initiatives
 💼 LinkedIn: https://www.linkedin.com/in/sntmunia/
 
 Fun fact : I turn messy data into clear insights—just like I turn random ingredients into delicious meals!" 😊🍽️📊
+
 📂 Portfolio/GitHub Projects: Check out my repositories below!
