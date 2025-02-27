@@ -1,6 +1,41 @@
 ## Hi there 👋
-My name is Syeda. I am certified Data Analyst .I am continuously enhancing my expertise in advanced data analytics, machine learning applications in business intelligence, and financial modeling. I am deepening my proficiency in AI-driven forecasting and automation to improve decision-making and efficiency. Additionally, I am refining my leadership and stakeholder engagement skills to better communicate complex data insights to non-technical audiences.
-<!--
+ Hi, I'm Syeda Noshin Tabassum, a results-driven Data Analyst & Business Intelligence Professional with over five years of experience in data analysis, market insights, and performance reporting. I specialize in turning raw data into actionable insights to drive strategic decision-making.
+
+🚀 What I Do:
+
+🔹 Data Analysis & Visualization – SQL | Python (Pandas, NumPy) | Power BI | Tableau | Advanced Excel
+
+🔹 Business Intelligence & Forecasting – Financial modeling, inventory optimization, trend analysis
+
+🔹 Database Management – MySQL | PostgreSQL | SQLite | RDBMS
+
+🔹 Process Improvement & Automation – AI-driven analytics, workflow optimization, data governance
+
+🔹 Project Management & Collaboration – Agile | Jira | Trello | Microsoft Teams
+
+📊 Passionate About:
+
+Data storytelling – Communicating complex insights through compelling visualizations
+
+Predictive analytics – Leveraging AI/ML for forecasting and optimization
+
+Business strategy – Aligning data-driven insights with organizational goals
+
+🌍 Open to collaborations on:
+
+Data analytics & visualization projects
+
+AI-driven forecasting solutions
+
+Business intelligence & automation initiatives
+
+🔗 Connect with me:
+
+📫 Email: sntmunia123@gmail.com
+
+💼 LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/sntmunia/)
+
+📂 Portfolio/GitHub Projects: Check out my repositories below!
 **sntmunia/sntmunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
