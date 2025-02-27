@@ -21,7 +21,7 @@ Business intelligence & automation initiatives
 
 📫 Email: sntmunia123@gmail.com
 
-💼 LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/sntmunia/)
+💼 LinkedIn: https://www.linkedin.com/in/sntmunia/
 
 Fun fact : I turn messy data into clear insights—just like I turn random ingredients into delicious meals!" 😊🍽️📊
 📂 Portfolio/GitHub Projects: Check out my repositories below!
