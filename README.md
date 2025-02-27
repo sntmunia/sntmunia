@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Syeda. I am certified Data analytics .I am continuously enhancing my expertise in advanced data analytics, machine learning applications in business intelligence, and financial modeling. I am deepening my proficiency in AI-driven forecasting and automation to improve decision-making and efficiency. Additionally, I am refining my leadership and stakeholder engagement skills to better communicate complex data insights to non-technical audiences.
+My name is Syeda. I am certified Data Analyst .I am continuously enhancing my expertise in advanced data analytics, machine learning applications in business intelligence, and financial modeling. I am deepening my proficiency in AI-driven forecasting and automation to improve decision-making and efficiency. Additionally, I am refining my leadership and stakeholder engagement skills to better communicate complex data insights to non-technical audiences.
 <!--
 **sntmunia/sntmunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
